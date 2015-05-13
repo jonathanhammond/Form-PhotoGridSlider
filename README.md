@@ -32,7 +32,7 @@ https://www.facebook.com/groups/formcommunity/permalink/1599695480287743/
 ## Dependencies
 Requires [Form](https://itunes.apple.com/us/app/form/id906164672?mt=12 "Form") and [Form Viewer](https://itunes.apple.com/us/app/form-viewer/id909186799?mt=8 "Form Viewer") 
 
-![UI Screenshot](./screenshots/UI1.png "UI")
-![UI2 Screenshot](./screenshots/UI2.png "UI2")
+![UI Screenshot](./screenshots/UI1.PNG "UI")
+![UI2 Screenshot](./screenshots/UI2.PNG "UI2")
 ![Code](./screenshots/Code.jpg "Code")
 
